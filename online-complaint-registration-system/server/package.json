@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "bcryptjs": "latest",
+    "jsonwebtoken": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "nodemailer": "latest",
+    "express-validator": "latest",
+    "helmet": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
